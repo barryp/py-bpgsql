@@ -1,4 +1,4 @@
-See https://github.com/d33tah/py-bpgsql for more up-to-date work including Travis CI Integration
+**See https://github.com/d33tah/py-bpgsql for more up-to-date work including support for Python 3 and latest Django.**
 
 --- 
 
